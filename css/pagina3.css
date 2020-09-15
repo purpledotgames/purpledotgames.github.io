@@ -27,3 +27,59 @@ body{
     font-family: 'Kufam', cursive;
     font-size: 1.2em;
 }
+.organization{
+    width: 100%;
+    background-color:   #0095af;
+}
+.organizationExpImg{
+    width: 40%;
+    min-width: 250px;
+    max-width: 450px;
+}
+.organizationCarouselAjuste{
+    width: 40%;
+    min-width: 250px;
+    max-width: 550px;
+}
+.organizationTXT{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 5em;
+}
+.organizationBackGround{
+    width: 100%;
+    background-color:  #6B0080;
+    border-style: solid none solid none;
+    border-color: #FDF9FF;
+}
+.organizationInfo{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2em;
+}
+.theLabyrinth{
+    width: 100%;
+    background-color:    #462110;
+}
+.theLabyrinthExpImg{
+    width: 40%;
+    min-width: 250px;
+    max-width: 400px;
+}
+.theLabyrinthBackGround{
+    width: 100%;
+    background-color:  #6B0080;
+    border-style: solid none solid none;
+    border-color: #FDF9FF;
+}
+.theLabyrinthInfo{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2em;
+}
+.theLabyrinthBorder{
+    border-style: solid none solid none;
+    border-color: #FDF9FF;
+}
+.entreEmContato{
+    background-color:#1D0028;
+    border-style: solid none solid none;
+    border-color: #FDF9FF;
+}
