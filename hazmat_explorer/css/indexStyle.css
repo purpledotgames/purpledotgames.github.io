@@ -22,7 +22,7 @@ body{
     top: 0;
 }
 .gameArea{
-    background-image: url(/data/images/fundo@2x.png);
+    background-image: url(../data/images/fundo@2x.png);
     background-size: 100%;
     
 }
