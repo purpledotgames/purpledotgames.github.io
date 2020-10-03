@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    font-size: 1em;
+    font-family: 'Bebas Neue', Verdana, sans-serif;
+    text-align: center;
+}
+.header{
+    background-color: #FFBA00;
+    color: #282828;
+    font-size: 4em;
+    width: 100%;
+    padding: 1% 0%;
+    position: fixed;
+    top: 0;
+}
+.gameArea{
+    background-image: url(/data/images/fundo@2x.png);
+    background-size: cover;
+    
+}
+.game{
+    padding: 10px;
+    margin-top: 110px;
+}
+.botaoFormulario{
+    margin-top: 1%;
+    padding-bottom: 10%;
+    
+}
+.botaoFormulario a{
+    width: 800px;
+    height: 75px;
+    padding: 1% 10%;
+    color: #FFBA00;
+    background-color: #282828;
+    border: 5px solid #FFBA00;
+    font-size: 2em;
+    font-family: 'Bebas Neue', Verdana, sans-serif;
+    outline: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+.botaoFormulario :hover{
+    background-color: #303030;
+}
+.footer{
+    color: #FFBA00;
+    background-color: #282828;
+    position: fixed;
+    padding: 2% 0%;
+    bottom: 0;
+    width: 100%;
+}
