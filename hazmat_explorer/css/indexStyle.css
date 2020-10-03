@@ -7,28 +7,31 @@ body{
     font-size: 1em;
     font-family: 'Bebas Neue', Verdana, sans-serif;
     text-align: center;
+    background-color: #282828;
+}
+.backgroundImage{
+    float: none;
+    z-index: -2;
 }
 .header{
     background-color: #FFBA00;
     color: #282828;
-    font-size: 4em;
+    font-size: 3em;
     width: 100%;
     padding: 1% 0%;
-    position: fixed;
     top: 0;
 }
 .gameArea{
     background-image: url(/data/images/fundo@2x.png);
-    background-size: cover;
+    background-size: 100%;
     
 }
 .game{
     padding: 10px;
-    margin-top: 110px;
 }
 .botaoFormulario{
     margin-top: 1%;
-    padding-bottom: 10%;
+    padding-bottom: 8%;
     
 }
 .botaoFormulario a{
@@ -50,8 +53,7 @@ body{
 .footer{
     color: #FFBA00;
     background-color: #282828;
-    position: fixed;
-    padding: 2% 0%;
+    padding: 1% 0%;
     bottom: 0;
     width: 100%;
 }
